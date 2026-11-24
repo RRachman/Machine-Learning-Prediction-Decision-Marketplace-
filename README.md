@@ -8,7 +8,7 @@ Aplikasi berbasis Streamlit untuk memprediksi status pesanan Shopee menggunakan 
 - Prediksi status pesanan: **Selesai** atau **Batal**.
 - Menampilkan ringkasan dan visualisasi hasil prediksi.
 - Menyediakan rekomendasi dan analisis hasil.
-- Mengunduh hasil prediksi dalam format CSV.
+- Mengunduh hasil prediksi dalam format CSV..
 
 ## Teknologi
 
